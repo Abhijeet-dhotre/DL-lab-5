@@ -105,6 +105,3 @@ Top 5 predictions:
 Generated: 'deep learning is a subset of machine'
 ```
 
-## License
-
-MIT License
